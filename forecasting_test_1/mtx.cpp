@@ -1,4 +1,7 @@
 
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
 
 #include "tls.h"
 #include "mtx.h"

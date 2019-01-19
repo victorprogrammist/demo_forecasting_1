@@ -1,6 +1,9 @@
 
-#include "tls.h"
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
 
+#include "tls.h"
 
 double sqrt_sign(double v) {
     if (v >= 0) return pow(v, 0.5);

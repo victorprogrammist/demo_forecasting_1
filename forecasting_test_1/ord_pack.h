@@ -1,4 +1,8 @@
 
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
+
 #ifndef ORD_PACK_H
 #define ORD_PACK_H
 

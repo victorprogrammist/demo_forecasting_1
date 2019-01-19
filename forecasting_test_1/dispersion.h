@@ -1,4 +1,8 @@
 
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
+
 #ifndef DISPERSION_H
 #define DISPERSION_H
 

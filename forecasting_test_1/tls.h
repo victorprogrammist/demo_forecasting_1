@@ -1,3 +1,8 @@
+
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
+
 #ifndef TLS_H
 #define TLS_H
 

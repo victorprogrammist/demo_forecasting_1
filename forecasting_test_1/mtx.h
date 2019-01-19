@@ -1,4 +1,8 @@
 
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
+
 #ifndef MTX_H
 #define MTX_H
 
