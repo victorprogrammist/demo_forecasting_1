@@ -125,7 +125,13 @@ pair<double,double> calc_pos_by_array(
     return {disp_avg_mape.mean(),disp_dev_mape.mean()};
 }
 
-// основная процедура теста
+// Основная процедура теста.
+// Смысл расчета во многом похож расчету исходной статьи
+//  https://habr.com/post/267035/
+//  и с теми же параметрами расчета.
+// Здесь же добавлено то, что все это считается по пачке лучших
+//  которая накапливается в объекте OrdPack pack(cnt_best),
+//  и на основе этого проверяется насколько закономерен этот прогноз.
 void MainWindow::to_do_test() {
 
     QString file_cotir = ui->ed_file_data->text();
